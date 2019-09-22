@@ -1,3 +1,6 @@
-p {
-	color:red;
+html{
+	background: #111;
+}
+* {
+	color:#999;
 }
